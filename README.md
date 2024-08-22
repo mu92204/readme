@@ -1,1 +1,12 @@
 # readme
+{
+  "name": "rogue_like_javascript",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module" // 옵션 추가
+}
